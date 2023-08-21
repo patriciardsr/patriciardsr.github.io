@@ -21,7 +21,7 @@ author: Patrícia RdSR
 
 navbar-links:
   About Me: "aboutme"
-  Posts: "posts"
+  Tutorials: "tutorials"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
