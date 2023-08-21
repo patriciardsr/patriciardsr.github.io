@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: PRdSR
 subtitle: Hello, I'm Patrícia
 ---
 
